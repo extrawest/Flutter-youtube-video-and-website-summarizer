@@ -51,7 +51,7 @@ Now you can use the app
 ![Preview](https://gitlab.extrawest.com/i-training/flutter/unisummarizer-saas/-/blob/main/demo_files/youtube-summarize.gif)
 
 
-Created by Oleksandr Samoilenko
+Created by Oleksandr Samoilenko 
 
 [Extrawest.com](https://www.extrawest.com), 2024
 
