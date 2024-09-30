@@ -47,8 +47,8 @@ Now you can use the app
 
 ## Preview
 
-![Preview](https://gitlab.extrawest.com/i-training/flutter/unisummarizer-saas/-/blob/main/demo_files/web-summarize.gif)
-![Preview](https://gitlab.extrawest.com/i-training/flutter/unisummarizer-saas/-/blob/main/demo_files/youtube-summarize.gif)
+![Preview](https://github.com/extrawest/Uni-Summarizer/blob/main/demo_files/web-summarize.gif)
+![Preview](https://github.com/extrawest/Uni-Summarizer/blob/main/demo_files/youtube-summarize.gif)
 
 
 Created by Oleksandr Samoilenko 
