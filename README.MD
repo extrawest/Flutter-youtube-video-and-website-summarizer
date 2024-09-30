@@ -47,7 +47,7 @@ Now you can use the app
 
 ## Preview
 
-p align="center">
+<p align="center">
   <img src="https://github.com/extrawest/Uni-Summarizer/blob/main/demo_files/web-summarize.gif" alt="Preview" width="400"/>
 </p>
 <p align="center">
